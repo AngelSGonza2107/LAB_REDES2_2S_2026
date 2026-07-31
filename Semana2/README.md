@@ -1,4 +1,4 @@
-# Semana No. 1 (25/07/2026) - Ejercicio práctico
+# Semana No. 2 (25/07/2026) - Ejercicio práctico
 
 ## Descripción
 
@@ -12,7 +12,7 @@ También se trabajó con:
 - **Default Gateway**, para que cada computadora pueda salir de su red.
 - **Inter-VLAN Routing**, para permitir la comunicación entre diferentes VLANs.
 
-![Topología de la práctica](../assets/sem1_topologia.png)
+![Topología de la práctica](../assets/sem2_topologia.png)
 
 ## VLANs utilizadas
 
