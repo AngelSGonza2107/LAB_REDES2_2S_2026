@@ -31,6 +31,7 @@ Durante el laboratorio se trabajan temas como:
 3. [Tabla CIDR](/assets/Tabla_CIDR.png)
 4. [Video Subnetting](https://youtu.be/AUaPA4CO0oU)
 5. [Calculadora FLSM/VLSM](https://arcadio.gq/index.html)
+6. [Documentación y Manual de Usuario Wireshark](https://www.wireshark.org/docs/wsug_html_chunked/)
 
 ---
 
