@@ -32,6 +32,7 @@ Durante el laboratorio se trabajan temas como:
 4. [Video Subnetting](https://youtu.be/AUaPA4CO0oU)
 5. [Calculadora FLSM/VLSM](https://arcadio.gq/index.html)
 6. [Documentación y Manual de Usuario Wireshark](https://www.wireshark.org/docs/wsug_html_chunked/)
+7. [Descargar distribución de Kali Linux para VM](https://www.kali.org/get-kali/#kali-virtual-machines)
 
 ---
 
